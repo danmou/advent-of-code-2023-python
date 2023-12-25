@@ -4,7 +4,7 @@
     <option name="enabledOnReformat" value="true" />
     <option name="executionMode" value="BINARY" />
     <option name="pathToExecutable" value="/usr/bin/black" />
-    <option name="sdkUUID" value="45829f57-7c70-4f07-a9fb-e906d5acbadc" />
+    <option name="sdkName" value="Python 3.11 (advent-of-code-2023-python)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (advent-of-code-2023-python)" project-jdk-type="Python SDK" />
 </project>
